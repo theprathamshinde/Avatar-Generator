@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Avatar-Generator/static/css/main.d6e7fbe2.css",
+    "main.js": "/Avatar-Generator/static/js/main.c1765dd8.js",
+    "static/js/453.2357d924.chunk.js": "/Avatar-Generator/static/js/453.2357d924.chunk.js",
+    "index.html": "/Avatar-Generator/index.html",
+    "main.d6e7fbe2.css.map": "/Avatar-Generator/static/css/main.d6e7fbe2.css.map",
+    "main.c1765dd8.js.map": "/Avatar-Generator/static/js/main.c1765dd8.js.map",
+    "453.2357d924.chunk.js.map": "/Avatar-Generator/static/js/453.2357d924.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d6e7fbe2.css",
+    "static/js/main.c1765dd8.js"
+  ]
+}
