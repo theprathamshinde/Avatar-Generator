@@ -35,4 +35,18 @@
   to {
     transform: rotate(360deg);
   }
+  
 }
+.app-container {
+  position: relative;
+}
+
+.avatar-container {
+  position: absolute;
+  top: 100px;
+  right: 20px;
+  width: 100px; /* Adjust as needed */
+  height: 100px; /* Adjust as needed */
+  z-index: 999; /* Ensure it's above other content */
+}
+

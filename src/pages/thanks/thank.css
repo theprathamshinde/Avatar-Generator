@@ -1,0 +1,99 @@
+.container {
+  -webkit-text-size-adjust: 100%;
+  line-height: 1.5;
+  font-family: Jost,sans-serif;
+  box-sizing: border-box;
+  border: 0 solid #e2e8f0;
+  width: 100%;
+  max-width: 808px;
+  display: flex;
+  flex-direction: column;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.avatar-container {
+  position: absolute;
+  top: 100;
+  left: 0;
+  width: 22rem;
+  margin-top: -3rem;
+}
+
+
+.avatar-container svg {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+/* CSS for the "Create Avatar" heading */
+.create-avatar-heading {
+  font-size: 35px; /* Adjust the font size as needed */
+  font-weight: bold;
+  margin-bottom: 20px; /* Add some space below the heading */
+}
+
+.download-button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  width: 200px; /* Set a fixed width */
+  height: 60px; /* Set a fixed height */
+  color: white;
+  margin-left: 20px; /* Adjust margin as needed */
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-top: 20px; /* Adjust as needed */
+  cursor: pointer;
+  border-radius: 8px;
+  transition: background-color 0.3s;
+}
+
+.download-button:hover {
+  background-color: #45a049; /* Darker green */
+}
+
+
+
+.controls-container {
+  padding-top: 20px; /* Add top padding */
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px; /* Adjust the space between columns */
+}
+
+/* Style for option buttons */
+.controls-container label {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end; /* Align labels to the right */
+}
+
+.controls-container label span {
+  flex: 1; /* Take up remaining space to align the labels to the right */
+}
+
+.controls-container select {
+  width: 200px; /* Set a fixed width */
+  height: 40px; /* Set a fixed height */
+  padding: 10px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  background-color: #f9f9f9;
+  transition: border-color 0.3s ease;
+}
+
+/* Hover effect for option buttons */
+.controls-container select:hover {
+  border-color: #999;
+}
+
+/* Focus effect for option buttons */
+.controls-container select:focus {
+  outline: none;
+  border-color: #333;
+}

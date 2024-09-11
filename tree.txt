@@ -1,0 +1,20 @@
+node_modules
+public
+resource
+src
+|
+|
+|____components
+|    |
+|	 |___navbar.css
+|    |___navbar.jsx
+|
+|____pages
+|	|
+|	|____thanks
+|		|
+|		|____thank.css
+|		|____thank.jsx
+|		
+|____app.css
+|____app.jsx
