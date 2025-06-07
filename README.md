@@ -15,8 +15,7 @@ This is a lightweight and interactive **avatar generator** built with **React** 
 
 ## 🚀 Live Demo
 
-👉 [Check out the live demo](https://your-deployment-link.com)  
-> Replace the above link with your actual deployment (e.g., Vercel, Netlify, GitHub Pages)
+👉 [Check out the live demo](https://avatar-generator-drab.vercel.app)  
 
 ---
 
