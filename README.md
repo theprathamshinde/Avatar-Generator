@@ -1,6 +1,6 @@
 # 👤 Avatar Generator
 
-This is a lightweight and interactive **avatar generator** built with **React** and powered by the [`beanhead`](https://github.com/RobertBroersma/beanheads) npm package. It allows users to generate random and fun avatars with customizable features — ideal for profile pictures, user accounts, or identity tokens.
+This is a lightweight and interactive **avatar generator** built using **React**. It allows users to generate random and fun avatars with customizable features — ideal for profile pictures, user accounts, or identity tokens.
 
 ---
 
