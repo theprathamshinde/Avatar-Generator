@@ -25,11 +25,6 @@ This is a lightweight and interactive **avatar generator** built with **React** 
 - 📦 **Beanhead (npm)** – Avatar generator library
 - 🧑‍💻 **JavaScript (ES6)**
 
----
-
-## 📁 Project Structure
-
-
 
 npm install /*install all the dependencies*/
 npm start /*run projects on server*/
